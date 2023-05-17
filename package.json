@@ -2,7 +2,7 @@
   "name": "website-jco",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://JackCollins91.github.io/JackCollins91.github.io",
+  "homepage": "https://JackCollins91.github.io/jcowebsite",
   "dependencies": {
     "@emotion/react": "^11.11.0",
     "@emotion/styled": "^11.11.0",
